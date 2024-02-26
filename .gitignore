@@ -1,0 +1,4 @@
+venv
+LikeItOrNot-v1/models/
+    LikeItOrNot-base-v1.pkl
+    LikeItOrNot-base-v2.pkl
